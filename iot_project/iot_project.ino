@@ -152,7 +152,6 @@ void loop()
         speed(0);
         tone(buzzer,1000);
       }
-      
     }
     else
     {
