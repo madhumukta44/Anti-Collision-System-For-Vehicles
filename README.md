@@ -1,6 +1,8 @@
 # Anti-Collision-System-For-Vehicles
 **Anti-Collision System For Vehicles**  This project implements an anti-collision system for vehicles using ultrasonic sensors to detect obstacles and adjust movement to prevent collisions. The system can be controlled via serial commands and includes features like automatic obstacle avoidance, buzzer alerts, and LED indicators.<br>
-[Here's](Images/topView.jpg) how  top view appears.
+[Here's how my setup looks like from top] (References/topView.jpg) [,] [side](References/sideView.jpg) [and front](References/frontView.jpg)[.]
+
+[and this (References/videoReference.mp4) is how automatic breaking system works.]
 
 ## How the Code Works
 Upon inspecting the provided code, it is first seen defining constants for pin assignments and speed values necessary for controlling the robot’s motors and sensors. The setup function initializes serial communication and configures the pins as outputs. Moving on to the loop function, the code checks for serial input and assigns commands to control the robot's movements.
