@@ -8,12 +8,12 @@
 **Project Setup**
 **Visual References**
 Here’s a look at the setup from multiple angles:
-[Top View](References/topView.jpg)
-[Side View](References/sideView.jpg)
-[Front View](References/frontView.jpg)
+<br>[Side View](References/sideView.jpg)
+<br>[Top View](References/topView.jpg)
+<br>[Front View](References/frontView.jpg)
 
 **Demonstration Video**
-[Click here](References/videoReference.mp4) to watch a demonstration of the automatic braking system in action.
+<br>[Click here](References/videoReference.mp4) to watch a demonstration of the automatic braking system in action.
 
 
 ## How the Code Works
