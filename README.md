@@ -1,12 +1,8 @@
 # Anti-Collision-System-For-Vehicles
 **Anti-Collision System For Vehicles**  This project implements an anti-collision system for vehicles using ultrasonic sensors to detect obstacles and adjust movement to prevent collisions. The system can be controlled via serial commands and includes features like automatic obstacle avoidance, buzzer alerts, and LED indicators.<br>
-[Here's how my setup looks like from top](References/topView.jpg) , [side](References/sideView.jpg) [, and front](References/frontView.jpg).
-
-[and this] (References/videoReference.mp4) [is how automatic breaking system works.]
-
 
 **Project Setup**
-**Visual References**
+<br>**Visual References**
 Here’s a look at the setup from multiple angles:
 <br>[Side View](References/sideView.jpg)
 <br>[Top View](References/topView.jpg)
